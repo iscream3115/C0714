@@ -7,6 +7,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cacheHit", "C0714\C0714.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inheritance", "inheritance\inheritance.vcxproj", "{6F0CC26A-F347-4E56-AA89-B2D1FFF6DA43}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0EE3E854-0C02-4623-982F-3F5A19C496EF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\0714필기.txt = ..\..\..\..\Desktop\0714필기.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015_Win32", "015_Win32\015_Win32.vcxproj", "{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +38,14 @@ Global
 		{6F0CC26A-F347-4E56-AA89-B2D1FFF6DA43}.Release|x64.Build.0 = Release|x64
 		{6F0CC26A-F347-4E56-AA89-B2D1FFF6DA43}.Release|x86.ActiveCfg = Release|Win32
 		{6F0CC26A-F347-4E56-AA89-B2D1FFF6DA43}.Release|x86.Build.0 = Release|Win32
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Debug|x64.ActiveCfg = Debug|x64
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Debug|x64.Build.0 = Debug|x64
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Debug|x86.ActiveCfg = Debug|Win32
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Debug|x86.Build.0 = Debug|Win32
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Release|x64.ActiveCfg = Release|x64
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Release|x64.Build.0 = Release|x64
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Release|x86.ActiveCfg = Release|Win32
+		{7717AB8A-B92D-4BE3-B5C8-4B8BDCE7989A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
